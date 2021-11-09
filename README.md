@@ -1,7 +1,6 @@
 # Mail/Videoconference Desktop Application
 A movie website that uses machine learning to recommend movies based on your preferences.
 
-//# Files 👀
 ## Pre-requisites 📋
 
 _Download and install:
